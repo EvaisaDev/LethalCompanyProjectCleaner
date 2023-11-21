@@ -532,6 +532,13 @@ namespace LethalCompanyProjectCleaner
 
 
             }
+
+            Console.WriteLine("All done!");
+
+            // press any key to exit
+            Console.WriteLine("Press any key to exit.");
+            Console.ReadKey();
+
             return;
         }
     }
