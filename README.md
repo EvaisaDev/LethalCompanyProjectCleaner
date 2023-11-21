@@ -6,6 +6,7 @@
 - This program is absolute spaghetti and i did not intend for anyone else to use it but it may help someone?
 - This was written for lethal company modding
 - Only tested on projects exported with AssetRipper 0.3.4.0
+- Requires .net framework 8.0.0 installed
 
 ## Installation
 
